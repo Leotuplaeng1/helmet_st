@@ -1,0 +1,8 @@
+streamlit
+numpy
+onnxruntime
+requests
+pillow
+flask
+flask-cors
+paho-mqtt
