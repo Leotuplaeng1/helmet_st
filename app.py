@@ -192,4 +192,4 @@ def main():
         os.remove('temp_helmet_detection_model.onnx')
 
 if __name__ == "__main__":
-    main()
+    app.run(host="0.0.0.0", port=port)
